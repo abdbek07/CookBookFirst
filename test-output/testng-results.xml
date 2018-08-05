@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7133" started-at="2018-08-05T01:05:50Z" finished-at="2018-08-05T01:05:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7133" started-at="2018-08-05T01:05:50Z" finished-at="2018-08-05T01:05:57Z">
+      <class name="com.cookbook.first.TestNGddt">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cookbook.first.TestNGddt@3bfdc050]" name="setUp" is-config="true" duration-ms="5484" started-at="2018-08-05T01:05:50Z" finished-at="2018-08-05T01:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBMICalculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cookbook.first.TestNGddt@3bfdc050]" name="testBMICalculator" duration-ms="386" started-at="2018-08-05T01:05:56Z" data-provider="testData" finished-at="2018-08-05T01:05:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[160]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[17.6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Underweight]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMICalculator -->
+        <test-method status="PASS" signature="testBMICalculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cookbook.first.TestNGddt@3bfdc050]" name="testBMICalculator" duration-ms="189" started-at="2018-08-05T01:05:56Z" data-provider="testData" finished-at="2018-08-05T01:05:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[168]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[70]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[24.8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Normal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMICalculator -->
+        <test-method status="PASS" signature="testBMICalculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cookbook.first.TestNGddt@3bfdc050]" name="testBMICalculator" duration-ms="185" started-at="2018-08-05T01:05:56Z" data-provider="testData" finished-at="2018-08-05T01:05:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[181]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[89]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[27.2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Overweight]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMICalculator -->
+        <test-method status="PASS" signature="testBMICalculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cookbook.first.TestNGddt@3bfdc050]" name="testBMICalculator" duration-ms="195" started-at="2018-08-05T01:05:56Z" data-provider="testData" finished-at="2018-08-05T01:05:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[178]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[31.6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Obesity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMICalculator -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cookbook.first.TestNGddt@3bfdc050]" name="tearDown" is-config="true" duration-ms="658" started-at="2018-08-05T01:05:57Z" finished-at="2018-08-05T01:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cookbook.first.TestNGddt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
